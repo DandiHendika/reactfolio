@@ -1,30 +1,30 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Dandi Portofolio",
+		name: "Dandi H",
+		email: "dandihendika746@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
 		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		github: "https://github.com/DandiHendika",
+		linkedin: "https://linkedin.com/in/dandihendika",
+		instagram: "https://instagram.com/dandi_hendika65",
+		stackoverflow: "https://stackoverflow.com/users/22579129/friendly-ramen",
+		facebook: "https://web.facebook.com/dandi.hendika/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Frontend web developer, junior backend develeper, game programmer and designer.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			   "I'm a programmer with interest and experience in two main fields: web development and game development. In web development, I'm proficient in various front-end and back-end technologies, including HTML, CSS, JavaScript, React, and Node.js. On the other hand, I also have expertise in game development using Unity, with a focus on game programming and game design. With this flexible background, I'm accustomed to thinking both creatively and structurally—combining design aesthetics with technical functionality. My goal is to create digital solutions that are not only functional but also enjoyable to use. Currently, I'm open to collaborations and new opportunities in the digital technology field, both in web and game development.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I’m Dandi Hendika, live in Bogor, west java.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"I’m Dandi Hendika currently an active college student at Institut Bisnis dan Informatika Kesatuan. I’m majoring in Information Technology. I have interest in web programming, game development and database administrator. I have several academic projects involving web and mobile programming and data analysis. I am committed to continuos learning and contributing to the field of technology. I aspire to pursue a career in web development and game development.",
 	},
 
 	articles: {
@@ -35,48 +35,30 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "The Silent Guardian: Tale of The Scarecrow",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"This is my game project using C# and Unity as the game engine while doing independent study and intern at Infinite Learning",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://dandihendika.itch.io/the-silent-guardian",
 		},
 
 		{
-			title: "Project 2",
+			title: "Help Desk Website",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"Final project for website programming making a help desk website for student to report their problem in their university",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/DandiHendika/222310005-UAS-PW",
 		},
 
 		{
-			title: "Project 3",
+			title: "Book Store Staff Managemnet System",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"Final Project for object oriented programming making a staff management system using java and eclipse IDE",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/DandiHendika/UAS-PBO-TI-22-PA-222310005",
 		},
 	],
 };

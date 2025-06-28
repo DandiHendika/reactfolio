@@ -48,13 +48,24 @@ const About = () => {
 								<div className="subtitle about-subtitle">
 									{INFO.about.description}
 								</div>
+								<div>
+									<h3>
+										Skill
+									</h3>
+									<div className="subtitle about-subtitle">
+										<div>Programming Language : C++, C#, Java, JavaScript, HTML, PHP</div>
+										<div>Framework : Laravel, Bootstrap, CSS</div>
+										<div>Database : MySQL, MongoDB</div>
+										Tool : VScode, Postman, Github, Figma, Unity
+									</div>
+								</div>
 							</div>
 
 							<div className="about-left-side">
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
 										<img
-											src="about.jpg"
+											src="profiles.jpeg"
 											alt="about"
 											className="about-image"
 										/>
